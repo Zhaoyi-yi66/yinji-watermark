@@ -1,0 +1,1 @@
+{"name":"yinji-watermark","version":"1.0.0","private":true,"license":"MIT","scripts":{"check":"node --check dist/app.js","deploy":"wrangler deploy"},"devDependencies":{"wrangler":"^4.0.0"}}
